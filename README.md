@@ -1,4 +1,4 @@
-# Zenit
+# Zenit (巔峰) Framework
 A high-performance full-stack framework designed specifically for enterprise applications. The backend is based on the industry's most stable Gin (Go), and the frontend is deeply integrated with SolidStart.
 
 Zenit 是一個專為企業級應用設計的高性能全棧 (Full-stack) 框架。後端基於業界最穩定的 Gin (Go)，前端深度整合 SolidStart。
