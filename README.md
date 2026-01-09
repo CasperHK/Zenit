@@ -46,13 +46,13 @@ zenit dev
 
 ## 📂 專案結構 (Gin-based)
 Zenit 採用現代化的全棧一體化結構，專為多人協作設計：
-* cmd/: 後端啟動入口。
-* internal/:
-* api/: Gin 路由與 Handler 定義。
-* service/: 核心業務邏輯層。
-* repository/: 資料庫持久層 (支援 GORM / Ent)。
-* src/: SolidStart 前端源碼 (Routes, Components, Signals)。
-* platform/: Kubernetes Helm Charts、Terraform 與 Dockerfile 定義。
+* `cmd/`: 後端啟動入口。
+* `internal/`:
+* `api/`: Gin 路由與 Handler 定義。
+* `service/`: 核心業務邏輯層。
+* `repository/`: 資料庫持久層 (支援 GORM / Ent)。
+* `src/`: SolidStart 前端源碼 (Routes, Components, Signals)。
+* `platform/`: Kubernetes Helm Charts、Terraform 與 Dockerfile 定義。
 
 ---
 
